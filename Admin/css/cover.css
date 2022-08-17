@@ -1,0 +1,37 @@
+body{
+    background-color: #cd9d9d8a;
+    margin-left: 0px;
+    margin-right: 10px;
+    position: fixed;
+
+}
+.parent{
+  background-image: url();
+
+}
+.par{ text-align : center;
+  text-shadow: 0 4px 1px #eee;
+  color: #2c606ebf;
+  position: relative;
+  left: 601px;
+   top: 107px;
+   font-size: 23px;
+
+}
+.image{
+  position: relative;
+    bottom: 331px;
+    left: 0px;
+    border-radius: 0px 570px 19px 0px;
+    width: 713px;
+    height: 668px;
+    float: left;
+}
+
+.prog{
+  position: relative;
+    height: 31px;
+    top: 10px;
+    left: 12px;
+    width: 490px;
+}

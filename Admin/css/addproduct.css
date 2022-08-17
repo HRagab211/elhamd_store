@@ -1,0 +1,59 @@
+body{
+  background-color: rgba(31, 30, 30, 0.63);
+  
+position: relative;
+
+}
+label{
+  display: block;
+  font-size: 20px;
+}
+form {
+  background-image: url(./images/ttt.jpg);
+  background-repeat: no-repeat;
+  background-size: 767px 645px;
+    margin: -6px 245px;
+    padding: 192px 150px;
+    position: fixed;
+    height: 266px;
+}
+input{
+  width: 310px;
+    height: 23px;
+    padding: 5px;
+
+}
+.button{
+  position:relative;
+  width: 47px;
+  height: 30px;
+  bottom: 166px;
+    left: 548px;
+}
+.reset{
+  position:relative;
+  width: 47px;
+  height: 30px;
+  bottom: 166px;
+    left: 437px;
+}
+div{
+/*  margin :100px ;*/
+  position: relative;
+  bottom: 111px;
+  right: 112px;
+}
+/*h1{
+  margin: -76px -107px 96px;*/
+
+.add{
+  margin: 0px;
+  /* position: relative; */
+  left: 100px;
+  bottom: 180px;
+  font-size: x-large;
+}
+section{
+  margin: 70px;
+
+}

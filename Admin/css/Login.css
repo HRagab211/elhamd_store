@@ -1,0 +1,49 @@
+body{
+  background-color: #ac8c8cab;
+  position: fixed;
+  margin-left: 5px;
+  margin-right: 5px;
+
+}
+body{
+  background-image: url(../images/uu.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      width: 160px;
+      height: 420px;
+      position: relative;
+      left: 351px;
+      top: 32px;
+      padding-left: 262px;
+      padding-right: 181px;
+      padding-top: 93px;
+    }
+
+label{
+  display: block;
+    font-size: 25px;
+    position: relative;
+    top: 69px;
+    font-family: serif;
+    color: #625858;
+}
+
+#x,
+#y{
+  width: 313px;
+    height: 38px;
+    position: relative;
+    top: 79px;
+    min-width: fit-content;
+    left: -115px;
+}
+ .button{
+  width: 150px;
+    height: 38px;
+    position: relative;
+    top: 106px;
+    left: -21px;
+}
+.opt{
+  display: none;
+}
